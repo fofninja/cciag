@@ -89,9 +89,7 @@ $('.slider-active').owlCarousel({
     loop:true,
     nav:true,
 	autoplay:true,
-    smartSpeed:1500,              // Transition plus lente = plus smooth
-    animateOut: 'fadeOut',        // Effet fade out
-    animateIn: 'fadeIn',
+    smartSpeed:1500,               // Effet fade out
 	dots:false,
 	navText:['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
     responsive:{
