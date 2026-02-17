@@ -1,0 +1,22 @@
+# Laravel & PHP
+/vendor
+/node_modules
+/public/storage
+/.env
+/.idea
+/.vscode
+/.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# Windows reserved files
+nul
+con
+aux
+prn
+
+# Optional archives
+*.zip
